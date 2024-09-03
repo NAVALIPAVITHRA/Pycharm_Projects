@@ -1,0 +1,2 @@
+hello pycharm!!its python virtual environment day
+ pycharm IDE 
